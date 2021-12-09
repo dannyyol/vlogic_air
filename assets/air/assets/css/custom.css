@@ -1,0 +1,14 @@
+
+.info-breadcrumb{
+    background-color: #007fb2!important;
+  }
+
+  .btn-info{
+    background-color: #007fb2!important;
+    border-color:  #007fb2!important;
+  }
+  label{
+    font-weight: 600!important;
+    font-size: 13px;
+    text-transform: uppercase;
+  }

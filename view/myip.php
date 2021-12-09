@@ -1,0 +1,1 @@
+<h3>Your IP is <code><?php print $ip ?></code></h3>
